@@ -1,0 +1,6 @@
+---
+applications:
+- name: fortune-fetcher
+  memory: 1024M
+  command: npm start
+  
